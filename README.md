@@ -102,10 +102,8 @@ $username = "root";
 $password = "";
 $dbname = "robot_control";
 
-// Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-// Check connection
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
@@ -137,18 +135,15 @@ $conn->close();
 <?php
 $servername = "localhost";
 $username = "root";
-$password = ""; // Change if you set a password
+$password = ""; 
 $dbname = "robot_control";
 
-// Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-// Check connection
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-// Retrieve the last command
 $sql = "SELECT command, timestamp FROM commands ORDER BY id DESC LIMIT 1";
 $result = $conn->query($sql);
 
@@ -156,7 +151,6 @@ $last_command = null;
 $timestamp = null;
 
 if ($result->num_rows > 0) {
-    // Output data of each row
     while($row = $result->fetch_assoc()) {
         $last_command = $row["command"];
         $timestamp = $row["timestamp"];
@@ -212,11 +206,12 @@ $conn->close();
 ###### 2- Robot control page and its interaction while clicking on the direction
 <img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/da5c962a-75b1-4158-bb47-e8ea43594c1e.jpg" width="50%" height="50%">
 <img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/89306e20-d84d-49c0-ae68-68f2d7299b04.jpg" width="50%" height="50%">
+
 ###### 3-A page that displays the last clicked movement of the robot's direction
 <img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/f35a313e-d58c-4dc2-bb75-4c73bdddfc4c.jpg" width="50%" height="50%">
 
 ###### 4-Database interaction
 <img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/764d0762-bd77-4caf-8d08-335efd2bd34d.jpg" width="50%" height="50%">
 
-
+###### ______________________________________________________________________________________________________________________________________
 ### It is very important and useful. I learned something new and it will help me in my specialty field 😊
