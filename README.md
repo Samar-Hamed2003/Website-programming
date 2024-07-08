@@ -1,4 +1,4 @@
-# Website-programming
+![photo_2024-07-08_17-43-56](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/a9a91438-eabd-441a-b0da-18161ee7ded7)# Website-programming
 ### -Web Task / Creating a web interface to control the robot and display its movements using xmapp, Visual Studio Code, HTML, and CSS
 
 #### 1. Install xmapp and Visual Studio Code
@@ -205,5 +205,18 @@ $conn->close();
 </body>
 </html>
 ```
+#### My Web page
+###### 1- First we make sure Apache and MySQL it is working
+![photo_2024-07-08_17-43-45](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/127637a6-755e-4c3e-b2e1-0011ebfcd69e)
+
+###### 2- Robot control page and its interaction while clicking on the direction
+![photo_2024-07-08_17-43-56](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/8055a005-dcab-4221-983a-585f17ae0b6f)
+![photo_2024-07-08_17-44-04](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/6bcf8610-9a3d-443b-a23e-94b97cb4ddb8)
+
+###### 3-A page that displays the last clicked movement of the robot's direction
+![photo_2024-07-08_17-44-08](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/7edfeccb-07e8-4f2a-bb78-f1f1bd912080)
+
+###### 4-Database interaction
+![photo_2024-07-08_17-44-16](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/fac06aac-056e-4d4a-9b9e-9cef6cb05e41)
 
 ### It is very important and useful. I learned something new and it will help me in my specialty field
