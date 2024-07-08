@@ -200,6 +200,7 @@ $conn->close();
 </html>
 ```
 #### My Web page
+
 ###### 1- First we make sure Apache and MySQL it is working
 <img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/df3aa978-8712-4932-b48a-0b0d97365182.jpg" width="50%" height="50%">
 
