@@ -1,4 +1,4 @@
-![photo_2024-07-08_17-43-56](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/a9a91438-eabd-441a-b0da-18161ee7ded7)# Website-programming
+# Website-programming
 ### -Web Task / Creating a web interface to control the robot and display its movements using xmapp, Visual Studio Code, HTML, and CSS
 
 #### 1. Install xmapp and Visual Studio Code
@@ -207,16 +207,16 @@ $conn->close();
 ```
 #### My Web page
 ###### 1- First we make sure Apache and MySQL it is working
-![photo_2024-07-08_17-43-45](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/127637a6-755e-4c3e-b2e1-0011ebfcd69e)
+<img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/df3aa978-8712-4932-b48a-0b0d97365182.jpg" width="50%" height="50%">
 
 ###### 2- Robot control page and its interaction while clicking on the direction
-![photo_2024-07-08_17-43-56](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/8055a005-dcab-4221-983a-585f17ae0b6f)
-![photo_2024-07-08_17-44-04](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/6bcf8610-9a3d-443b-a23e-94b97cb4ddb8)
-
+<img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/da5c962a-75b1-4158-bb47-e8ea43594c1e.jpg" width="50%" height="50%">
+<img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/89306e20-d84d-49c0-ae68-68f2d7299b04.jpg" width="50%" height="50%">
 ###### 3-A page that displays the last clicked movement of the robot's direction
-![photo_2024-07-08_17-44-08](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/7edfeccb-07e8-4f2a-bb78-f1f1bd912080)
+<img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/f35a313e-d58c-4dc2-bb75-4c73bdddfc4c.jpg" width="50%" height="50%">
 
 ###### 4-Database interaction
-![photo_2024-07-08_17-44-16](https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/fac06aac-056e-4d4a-9b9e-9cef6cb05e41)
+<img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/764d0762-bd77-4caf-8d08-335efd2bd34d.jpg" width="50%" height="50%">
 
-### It is very important and useful. I learned something new and it will help me in my specialty field
+
+### It is very important and useful. I learned something new and it will help me in my specialty field 😊
